@@ -1,4 +1,5 @@
-*.o
-*.hd
-dmrconfig
-dmrconfig.exe
+# binaries
+bin/
+
+# build folder
+build/
